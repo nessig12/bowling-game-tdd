@@ -1,3 +1,3 @@
-##Bowling Game TDD Example
+## Bowling Game TDD Example
 
 A simple exercise to learn TDD.
